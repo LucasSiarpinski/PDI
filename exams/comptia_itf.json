@@ -1,0 +1,60 @@
+{
+  "cert_name": "CompTIA ITF+",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Qual é a função principal de um sistema operacional?",
+      "choices": [
+        "Gerenciar hardware e fornecer serviços básicos",
+        "Processar planilhas",
+        "Fornecer acesso à internet",
+        "Editar imagens"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "text": "Qual destas extensões indica um arquivo executável no Windows?",
+      "choices": [
+        ".exe",
+        ".txt",
+        ".jpg",
+        ".pdf"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "text": "Qual porta padrão é usada para HTTP?",
+      "choices": [
+        "80",
+        "22",
+        "443",
+        "25"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "text": "Em redes, o que significa a sigla LAN?",
+      "choices": [
+        "Local Area Network",
+        "Large Access Node",
+        "Logical Area Network",
+        "Long Area Net"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "text": "Qual unidade mede a velocidade do clock de um processador?",
+      "choices": [
+        "GHz",
+        "MB",
+        "KB/s",
+        "FPS"
+      ],
+      "answer": 0
+    }
+  ]
+}

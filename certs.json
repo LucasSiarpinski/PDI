@@ -1,0 +1,18 @@
+{
+  "CompTIA ITF+": {
+    "exam_code": "FC0-U61",
+    "description": "Introdução ampla aos fundamentos de TI para iniciantes.",
+    "study_links": [
+      "https://www.comptia.org/certifications/itf",
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    ]
+  },
+  "AWS Certified Cloud Practitioner": {
+    "exam_code": "CLF-C02",
+    "description": "Fundamentos de AWS Cloud para qualquer função.",
+    "study_links": [
+      "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+      "https://explore.skillbuilder.aws/learn/course/13460"
+    ]
+  }
+}

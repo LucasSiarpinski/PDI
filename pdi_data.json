@@ -1,0 +1,62 @@
+{
+  "lucasmiottosiarpinski@gmail.com": {
+    "2025-06-30T02:04:03.916645": {
+      "timestamp": "2025-06-29T23:04:03",
+      "responses": [
+        [
+          "Qual é seu nome completo?",
+          "Lucas"
+        ],
+        [
+          "Qual e-mail você quer usar para receber seu PDI?",
+          "lucasmiottosiarpinski@gmail.com"
+        ],
+        [
+          "Quais são seus 3 principais objetivos de carreira para os próximos 12 meses?",
+          "Aprimorar minhas habilidades em desenvolvimento web (front-end e back-end) para assumir projetos full-stack.Concluir a certificação AWS Certified Solutions Architect – Associate para validar meu conhecimento em nuvem.Contribuir significativamente para o lançamento de um novo produto/funcionalidade na minha empresa, demonstrando proatividade e entrega de valor."
+        ],
+        [
+          "Quais metas você tem para 2–5 anos?",
+          "Alcançar um cargo de Especialista em Cloud Solutions ou Arquiteto de Software.Desenvolver expertise em inteligência artificial e machine learning para aplicar em soluções inovadoras.Ser reconhecido como uma referência técnica na área de Cloud Computing dentro do mercado."
+        ],
+        [
+          "Quais habilidades técnicas você considera mais fortes hoje?",
+          "Minhas habilidades técnicas mais fortes são: programação em Python e JavaScript, gerenciamento de bancos de dados relacionais (SQL) e automação de tarefas."
+        ],
+        [
+          "Quais habilidades comportamentais (soft skills) são seus pontos fortes?",
+          "Meus pontos fortes em habilidades comportamentais incluem: comunicação clara e objetiva, resolução criativa de problemas e capacidade de trabalhar bem em equipe e colaborar."
+        ],
+        [
+          "Quais competências você precisa desenvolver ou reforçar para alcançar seus objetivos?",
+          "Para alcançar meus objetivos, preciso desenvolver ou reforçar as seguintes competências:Técnica: Aprofundar meus conhecimentos em serviços específicos da AWS (ex: Lambda, DynamoDB) e arquiteturas de microsserviços.Comportamental: Melhorar minhas habilidades de liderança técnica e gestão de projetos ágeis."
+        ],
+        [
+          "Existe alguma certificação (CompTIA, AWS, PMP, etc.) que você deseja obter? Qual e até quando?",
+          "Sim, desejo obter a certificação AWS Certified Solutions Architect – Associate até dezembro de 2025."
+        ],
+        [
+          "Quanto tempo por semana você pode dedicar ao seu desenvolvimento?",
+          "Posso dedicar 8 horas por semana ao meu desenvolvimento, distribuídas em 2 horas por dia, 4 vezes por semana, ou 4 horas no final de semana e 4 durante a semana."
+        ],
+        [
+          "Quais são os maiores obstáculos que podem atrapalhar seu plano?",
+          "Os maiores obstáculos que podem atrapalhar meu plano são: a falta de tempo devido a demandas de trabalho inesperadas e a disciplina para manter a rotina de estudos a longo prazo."
+        ],
+        [
+          "Que tipo de apoio (mentoria, cursos, budget) você tem ou precisa buscar?",
+          "Tenho: Acesso a plataformas de cursos online (ex: Alura, Udemy) e o apoio da minha liderança para o desenvolvimento profissional.Preciso buscar: Um mentor experiente na área de arquitetura de soluções em nuvem e budget da empresa para o exame da certificação AWS."
+        ],
+        [
+          "Como você medirá seu progresso? (ex.: horas de estudo, notas em simulados, certificação obtida)",
+          "Horas de estudo registradas semanalmente em um log.Notas em simulados da certificação, buscando uma pontuação consistente acima de 80%.A obtenção da certificação AWS dentro do prazo estabelecido.Feedback periódico de meus gestores e colegas sobre a aplicação das novas habilidades no dia a dia."
+        ],
+        [
+          "Qual data-alvo para revisar e ajustar este PDI?",
+          "Minha data-alvo para revisar e ajustar este PDI é dezembro de 2025, quando avaliarei o progresso dos objetivos de 12 meses e definirei os próximos passos."
+        ]
+      ],
+      "plan": "**Plano de Desenvolvimento Individual (PDI) - Lucas Miotto Siarpinski**\n\n**E-mail:** lucasmiottosiarpinski@gmail.com\n\n**Data de Criação:** 24/10/2023\n\n**Data de Revisão:** Dezembro de 2025\n\n\n**I. Metas SMART (Próximos 12 Meses):**\n\n1. **Meta:** Aprimorar habilidades em desenvolvimento full-stack (front-end e back-end).\n    * **Específica:** Desenvolver 3 projetos completos (um front-end, um back-end e um full-stack) utilizando React, Node.js e um banco de dados relacional (ex: PostgreSQL).\n    * **Mensurável:**  Concluir os 3 projetos com código funcional, documentado e hospedado em um repositório público (GitHub).\n    * **Alcançável:** Dedicação de 4 horas semanais para estudos e desenvolvimento dos projetos.\n    * **Relevante:** Essencial para assumir projetos full-stack e alcançar metas de longo prazo.\n    * **Temporal:** Dezembro de 2024.\n    * **Indicador de Sucesso:** Projetos completos e hospedados no GitHub, com feedback positivo em revisões de código (se aplicável).\n\n2. **Meta:** Obter a certificação AWS Certified Solutions Architect – Associate.\n    * **Específica:** Obter uma pontuação mínima de 75% na prova de certificação.\n    * **Mensurável:** Aprovação na prova de certificação AWS Certified Solutions Architect – Associate.\n    * **Alcançável:** Dedicação de 2 horas semanais para estudos direcionados à certificação, utilizando materiais oficiais da AWS e simulados.\n    * **Relevante:** Validação de conhecimento em nuvem e crucial para metas de carreira de longo prazo.\n    * **Temporal:** Dezembro de 2024.\n    * **Indicador de Sucesso:** Certificação obtida e comprovação digital.\n\n3. **Meta:** Contribuir significativamente para o lançamento de um novo produto/funcionalidade na empresa.\n    * **Específica:** Assumir papel de liderança técnica em pelo menos uma funcionalidade do novo produto, incluindo design, desenvolvimento e testes.\n    * **Mensurável:** Entrega da funcionalidade dentro do prazo e com qualidade, avaliada através de métricas de performance e feedback do time.\n    * **Alcançável:** Proatividade na busca de oportunidades e colaboração efetiva com a equipe.\n    * **Relevante:** Demonstra proatividade e entrega de valor, contribuindo para o crescimento profissional.\n    * **Temporal:** Dezembro de 2024.\n    * **Indicador de Sucesso:** Feedback positivo da equipe e gestores sobre a contribuição no projeto.\n\n\n**II. Competências a Desenvolver:**\n\n* **Técnicas:**\n    * Aprofundamento em serviços AWS (Lambda, DynamoDB, etc.) e arquiteturas de microsserviços.\n    * Desenvolvimento full-stack (React, Node.js, bancos de dados relacionais).\n* **Comportamentais:**\n    * Liderança técnica.\n    * Gestão de projetos ágeis.\n\n\n**III. Ações Recomendadas:**\n\n| Competência                     | Ação                                         | Recurso                               | Prazo           | Indicador de Sucesso                               |\n|---------------------------------|-------------------------------------------------|----------------------------------------|-----------------|------------------------------------------------------|\n| Serviços AWS & Microsserviços    | Cursos online AWS (AWS Educate, Udemy)           | Udemy, AWS Educate                     | Dezembro 2024   | Conclusão dos cursos e aplicação em projetos.           |\n| Desenvolvimento Full-Stack      | Projetos pessoais (React, Node.js, PostgreSQL) | GitHub, documentação                  | Dezembro 2024   | Projetos completos e hospedados no GitHub.           |\n| Liderança Técnica                | Mentoria com profissional experiente em Cloud    | Busca ativa de mentor                  | Junho 2024      | Feedback positivo do mentor e aplicação em projetos.    |\n| Gestão de Projetos Ágeis        | Curso online (Alura, Udemy, etc.)              | Alura, Udemy, etc.                     | Junho 2024      | Certificação (se houver) ou aplicação em projetos.   |\n| Certificação AWS Solutions Architect | Estudo direcionado com materiais oficiais AWS e simulados | Site oficial AWS, simulados online     | Dezembro 2024   | Certificação obtida.                               |\n\n\n**IV. Apoio Necessário:**\n\n* **Disponível:** Acesso a plataformas online (Alura, Udemy), apoio da liderança.\n* **Necessário:** Buscar mentor experiente em arquitetura de soluções em nuvem e budget para exame de certificação AWS.\n\n\n**V. Obstáculos e Mitigação:**\n\n* **Falta de tempo:**  Utilizar técnicas de gestão de tempo (ex: Pomodoro), priorizar tarefas e comunicar as necessidades ao gestor.\n* **Falta de disciplina:** Estabelecer uma rotina de estudos consistente, buscar um grupo de estudos ou parceiro de accountability.\n\n\n**VI. Monitoramento do Progresso:**\n\n* Registro semanal das horas de estudo.\n* Notas em simulados da certificação (acima de 80%).\n* Feedback periódico de gestores e colegas.\n* Revisão e ajuste do PDI em Dezembro de 2024.\n\n\nEste PDI é um guia e poderá ser ajustado conforme a necessidade.  A comunicação aberta com o gestor e a adaptação à mudanças imprevistas são fundamentais para o sucesso."
+    }
+  }
+}

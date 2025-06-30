@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "section": "identificacao",
+    "text": "Qual é seu nome completo?"
+  },
+  {
+    "id": 1,
+    "section": "identificacao",
+    "text": "Qual e-mail você quer usar para receber seu PDI?"
+  },
+  {
+    "id": 2,
+    "section": "objetivos",
+    "text": "Quais são seus 3 principais objetivos de carreira para os próximos 12 meses?"
+  },
+  {
+    "id": 3,
+    "section": "objetivos",
+    "text": "Quais metas você tem para 2–5 anos?"
+  },
+  {
+    "id": 4,
+    "section": "competencias",
+    "text": "Quais habilidades técnicas você considera mais fortes hoje?"
+  },
+  {
+    "id": 5,
+    "section": "competencias",
+    "text": "Quais habilidades comportamentais (soft skills) são seus pontos fortes?"
+  },
+  {
+    "id": 6,
+    "section": "lacunas",
+    "text": "Quais competências você precisa desenvolver ou reforçar para alcançar seus objetivos?"
+  },
+  {
+    "id": 7,
+    "section": "certificacoes",
+    "text": "Existe alguma certificação (CompTIA, AWS, PMP, etc.) que você deseja obter? Qual e até quando?"
+  },
+  {
+    "id": 8,
+    "section": "recursos",
+    "text": "Quanto tempo por semana você pode dedicar ao seu desenvolvimento?"
+  },
+  {
+    "id": 9,
+    "section": "obstaculos",
+    "text": "Quais são os maiores obstáculos que podem atrapalhar seu plano?"
+  },
+  {
+    "id": 10,
+    "section": "suporte",
+    "text": "Que tipo de apoio (mentoria, cursos, budget) você tem ou precisa buscar?"
+  },
+  {
+    "id": 11,
+    "section": "indicadores",
+    "text": "Como você medirá seu progresso? (ex.: horas de estudo, notas em simulados, certificação obtida)"
+  },
+  {
+    "id": 12,
+    "section": "prazos",
+    "text": "Qual data-alvo para revisar e ajustar este PDI?"
+  }
+]
